@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 🐍 Contribution Graph
+
+![Snake animation](https://github.com/chaudhariaditi160-coder/chaudhariaditi160-coder/blob/output/github-contribution-grid-snake.svg)
+
 ## 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chaudhariaditi160-coder&theme=tokyo-night)
