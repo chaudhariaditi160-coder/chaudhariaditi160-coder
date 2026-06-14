@@ -2,7 +2,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejasvinifulari5&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaudhariaditi160-coder&show_icons=true&theme=tokyonight)
 
 <!--
 **chaudhariaditi160-coder/chaudhariaditi160-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
