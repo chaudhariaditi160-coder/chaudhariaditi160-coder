@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chaudhariaditi160-coder&theme=tokyo-night)
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaudhariaditi160-coder&show_icons=true&theme=tokyonight)
