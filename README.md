@@ -1,4 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&width=600&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Building+AI-Powered+Solutions;DSA+Learner)](https://git.io/typing-svg)
+<div align="center">
+
+# 🚀 Welcome to My GitHub Profile
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Tejasvini+Fulari;AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Building+AI-Powered+Solutions;DSA+Learner+%7C+Problem+Solver" alt="Typing SVG" />
+
+</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&width=600&lines=AI+%26+Data+Science+Student)](https://git.io/typing-svg)
 
 
 ## 📈 Contribution Graph
