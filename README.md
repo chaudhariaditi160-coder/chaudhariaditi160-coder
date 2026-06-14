@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&width=600&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Building+AI-Powered+Solutions;DSA+Learner)](https://git.io/typing-svg)
 
 
 ## 📈 Contribution Graph
