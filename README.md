@@ -2,6 +2,10 @@
   <img src="./banner.png" width="100%">
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=BB86FC&center=true&vCenter=true&width=900&lines=Aditi Chaudhari">
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&width=600&lines=AI+%26+Data+Science+Student)](https://git.io/typing-svg)
 
 
