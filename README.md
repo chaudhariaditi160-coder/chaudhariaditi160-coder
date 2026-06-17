@@ -6,18 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student" />
 </p>
 
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chaudhariaditi160-coder&theme=tokyo-night)
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaudhariaditi160-coder&show_icons=true&theme=tokyonight)
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=chaudhariaditi160-coder&theme=tokyonight)
 
 <!--
 **chaudhariaditi160-coder/chaudhariaditi160-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
